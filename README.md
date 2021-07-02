@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @STT-Seah
-- 🌱 I’m currently learning CS50.
+- 🌱 I am Fintech learner .
 
 <!---
 STT-Seah/STT-Seah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
