@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @STT-Seah
-- 🌱 I am Fintech learner .
+- 🌱 I am Fintech Learner(non tech) .
 
 <!---
 STT-Seah/STT-Seah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
